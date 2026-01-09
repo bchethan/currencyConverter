@@ -17,9 +17,6 @@ select, input{
     text-align: center;
 }
 @media(max-width: 520px){
-    body{
-    background-color: lightgreen;
-    }
     .slot{
         margin: 10px;
         max-width: fit-content;
